@@ -1,0 +1,9 @@
+requests
+chromadb
+pydantic
+prettytable
+pandas
+scikit-learn
+langdetect
+gensim
+nltk
